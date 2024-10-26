@@ -1,7 +1,7 @@
 <h1 align="center">Sérgio Silva</h1>
 
 - 🔭 Desenvolvedor de Softwares
-- 👩‍💻 Meu primeiro contato com a programação foi muito cedo, aos 13 anos de idade criando pequenas aplicações com Visual Basic e desde então venho sempre tentando acompanhar novas tendencias tecnologicas para sempre entregar projetos seguros e de fácil manutenção
+- 👩‍💻 Focado em acompanhar as novas tendencias tecnologicas para sempre entregar projetos seguros e de fácil manutenção
 - 🌱 Atualmente me especializando em desenvolvimento Web
 - 😄 Sempre buscando a melhor forma de integrar a tecnologia em atividades cotidianas
 
