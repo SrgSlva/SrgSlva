@@ -1,12 +1,9 @@
 <h1 align="center">Sérgio Silva</h1>
 
 - 🔭 Desenvolvedor de Softwares
-- 👩‍💻 Focado em acompanhar as novas tendencias tecnologicas para sempre entregar projetos seguros e de fácil manutenção
-- 🌱 Atualmente me especializando em desenvolvimento Web
-- 😄 Sempre buscando a melhor forma de integrar a tecnologia em atividades cotidianas
+- 👩‍💻 Analise e desenvolvimento de sistemas
 
-
-<h3 align="center">🧰 linguagens e frameworks frequentemente utilizados durante meus desenvolvimentos</h3>
+<h3 align="center">🧰 linguagens e frameworks</h3>
 
 <h4 align="center">Linguagens</h4>
 <br>
